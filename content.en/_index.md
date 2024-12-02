@@ -1,9 +1,12 @@
 ---
 title: Websites
-description: Transgender Navigation
+description: Awesome Trans - Transgender Portal
 brand: '{{< brand >}}'
-slogan: '{{< brand >}} Transgender Navigation'
+slogan: '{{< brand >}} Awesome Trans'
 links:
+  - title: Trans in Academia!
+    tags: [General]
+    url: https://transinacademia.org/
   - title: That's Gender Dysphoria, FYI
     tags: [General]
     url: https://genderdysphoria.fyi/en/
@@ -67,7 +70,7 @@ links:
   - title: Gender Construction Kit
     tags: [General, UK]
     urls: https://genderkit.org.uk
-  - title: Transintion FtM UK
+  - title: Transition FtM UK
     tags: [FtM, UK]
     urls: https://transitionftmuk.co.uk
   - title: Trans in Academia!
@@ -76,4 +79,10 @@ links:
   - title: Transgender University Guidance
     tags: [General]
     url: https://uniguide.transacademic.org
+  - title: Gender Analysis
+    tags: [General]
+    url: https://genderanalysis.net/
+  - title: One Among Us Transgender Support
+    tags: [Community]
+    url: https://oneamongus.ca
 ---

@@ -1,15 +1,15 @@
 ---
 title: サイト
-description: Transgender Navigation
+description: トランスジェンダーのポータル
 brand: '{{< brand >}}'
-slogan: '{{< brand >}} Transgender Navigation'
+slogan: '{{< brand >}} トランスジェンダーのポータル'
 featured:
   - title: MtF.wiki
     url: https://mtf.wiki/ja/
   - title: '@MtFwikiJapan'
     url: https://twitter.com/MtFwikiJapan
   - title: MtF.wiki Official
-    url: https://link.mtf.wiki/discord-japan
+    url: https://link.mtf.wiki/discord
 links:
   - title: MtF 情報発信サイト
     tags: [Blog]
@@ -38,4 +38,7 @@ links:
   - title: 日本 GID/GD と共に生きる人々の会
     tags: [未分類]
     url: https://gid.jp
+  - title: GID治療院一覧（ホルモン治療）
+    tags: [Map]
+    url: https://g-pit.com/gidclinics/
 ---

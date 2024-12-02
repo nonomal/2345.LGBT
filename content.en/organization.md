@@ -7,9 +7,19 @@ weight: 3
 - [Massachusetts Transgender Political Coalition (MTPC)](https://www.masstpc.org)
 - [Transgender Teen Survival Guide](https://transgenderteensurvivalguide.com)
 
+## Australia
+
+- [TransHub](https://www.transhub.org.au/)
+
 ## France
 
 - [Wiki Trans](https://wikitrans.co) (French)
+
+## Netherlands
+
+- [Transvisie](https://transvisie.nl/information/)
+- [T-Nederland](https://t-nederland.nl/) (Dutch)
+- [Transgender Netwerk](https://www.transgendernetwerk.nl/) (Dutch)
 
 ## U.S.A
 

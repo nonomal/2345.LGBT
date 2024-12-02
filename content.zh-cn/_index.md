@@ -16,9 +16,9 @@ featured:
   - title: RLE.wiki
     url: https://rle.wiki
 links:
-  - title: MtF.wiki Blog
-    tags: [MtF]
-    url: https://blog.mtf.wiki
+  - title: Project Trans Blog
+    tags: [MtF, FtM]
+    url: https://blog.project-trans.org
   - title: MtF.wiki TFSci
     tags: [MtF]
     url: https://tfsci.mtf.wiki
@@ -46,15 +46,18 @@ links:
   - title: awesome trans
     tags: [MtF, FtM]
     url: https://awesometrans.github.io/awesometrans_zh/
+  - title: 生如夏花
+    tags: [社区, 性]
+    url: https://viva-la-vita.org/
   - title: 那些秋叶
     tags: [社区]
     url: https://one-among.us
-  - title: MtF.wiki Official
+  - title: 跨性别学术小组
+    tags: [社区]
+    url: https://transinacademia.org/
+  - title: Project Trans Community
     tags: [社区]
     url: https://link.mtf.wiki/discord
-  - title: FtM.wiki Official
-    tags: [社区]
-    url: https://link.ftm.wiki/discord
   - title: r/mtf_zh
     tags: [社区]
     url: https://www.reddit.com/r/mtf_zh
@@ -64,4 +67,10 @@ links:
   - title: Transman Helper
     tags: [社区]
     url: https://www.transmanhelper.com
+  - title: KnowSex
+    tags: [性]
+    url: https://knowsex.net/
+  - title: One Among Us 社群
+    tags: [社区]
+    url: https://oneamongus.ca
 ---

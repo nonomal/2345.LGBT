@@ -26,6 +26,8 @@ weight: 5
 
 ## 指南 {#guide}
 
+- [跨性别和多元性别人群健康照护指南第八版](https://project-trans.org/SOC-8/)（2022）
+- [跨性别医疗照护手册](https://srp1z3xn00.feishu.cn/file/boxcnAolGkJZKncItk1Sx4AEIOc)（2022）
 - [伴您同行：专为跨性别儿童的父母准备的指南](https://www.congregaytion.com/ill-walk-with-you/zh) (2022)
 - [LGBTI 包容指数拟议指标](https://www.undp.org/publications/lgbti-index) (2019)
 - [促进 LGBTI 人权和包容: 议员手册](https://www.undp.org/zh/china/publications/促进lgbti人权和包容-议员手册) (2017)
@@ -36,6 +38,8 @@ weight: 5
 
 ## 知识库 {#kb}
 
-- [Transgender lost years](https://github.com/KristallWang/Transgender-lost-years)
+- [中国大陆跨性别相关法律法规变迁](https://project-trans.org/china-legal/)
 - [跨性别在线·文档库](https://docs.transonline.org.cn)
 - [LGBT 文件资料·索引库](https://cnlgbtdata.com)
+- [Transgender lost years](https://github.com/KristallWang/Transgender-lost-years)
+- [跨性别与多元性别文档档案库](https://digital.transchinese.org/)
